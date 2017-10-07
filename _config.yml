@@ -1,1 +1,9 @@
+url: "https://hrsgoldeneye.github.io/goldeneye.io/"
+baseurl: ""
+title: Test
+description: test for webpage
+google_analytics: 
+show_downloads: true
 theme: jekyll-theme-slate
+gems:
+  - jekyll-mentions
